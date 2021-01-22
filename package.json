@@ -21,7 +21,7 @@
     "react-native-safe-area-context": "~3.0.7",
     "react-native-screens": "^2.15.2",
     "react-native-web": "~0.14.10",
-    "server": "^1.0.31",
+    "server": "^1.0.31"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10"
